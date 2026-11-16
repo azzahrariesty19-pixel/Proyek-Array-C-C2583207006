@@ -46,21 +46,23 @@ Program ini menerapkan **Array Paralel** dengan kapasitas maksimal **50 elemen**
    ```bash
    gcc main.c -o kantin
 
-```
+'''
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192649" src="https://github.com/user-attachments/assets/6b0cd68b-6e52-4143-9f56-e860d85fd374" />
 
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192649" src="https://github.com/user-attachments/assets/829495ea-5813-4e04-b680-7438de33de5b" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192656" src="https://github.com/user-attachments/assets/455142e7-5443-413a-a3ff-a00806543732" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192708" src="https://github.com/user-attachments/assets/376b40da-60d5-4fa6-a7d7-0dd06e7e19e0" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192720" src="https://github.com/user-attachments/assets/5a88fdbb-045e-4b74-b5d1-71df7e44e36c" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192731" src="https://github.com/user-attachments/assets/57e2d9ca-c4c1-416d-a5d4-67d89adcb561" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192742" src="https://github.com/user-attachments/assets/c22af753-0e8d-494f-adb6-fbf48d3461f0" />
-   
-<img width="1366" height="768" alt="Screenshot 2026-11-15 192751" src="https://github.com/user-attachments/assets/26f7e67b-953d-4a56-aad0-2d41e59ff556" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192656" src="https://github.com/user-attachments/assets/603e459a-f87e-4bb0-a812-2fe7f28b091b" />
+
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192708" src="https://github.com/user-attachments/assets/7dcfad6b-f97f-43e3-afd9-195452707781" />
+
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192720" src="https://github.com/user-attachments/assets/79ab2bf7-5f73-4679-9923-f218f5b0cef2" />
+
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192731" src="https://github.com/user-attachments/assets/ea69e3be-94f7-4297-834e-32b723e88e5c" />
+
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192742" src="https://github.com/user-attachments/assets/ca7d38bf-75f9-43a2-bcc1-bc87ca40e8d6" />
+
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192751" src="https://github.com/user-attachments/assets/1c7abe29-6523-40f7-88d4-02d3c5754914" />
+
+
+
 
 
 
