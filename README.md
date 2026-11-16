@@ -46,7 +46,7 @@ Program ini menerapkan **Array Paralel** dengan kapasitas maksimal **50 elemen**
    ```bash
    gcc main.c -o kantin
 
-   
+```
 
    <img width="1366" height="768" alt="Screenshot 2026-11-15 192649" src="https://github.com/user-attachments/assets/829495ea-5813-4e04-b680-7438de33de5b" />
    
