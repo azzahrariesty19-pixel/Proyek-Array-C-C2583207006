@@ -48,19 +48,19 @@ Program ini menerapkan **Array Paralel** dengan kapasitas maksimal **50 elemen**
 
 ```
 
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192649" src="https://github.com/user-attachments/assets/829495ea-5813-4e04-b680-7438de33de5b" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192649" src="https://github.com/user-attachments/assets/829495ea-5813-4e04-b680-7438de33de5b" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192656" src="https://github.com/user-attachments/assets/455142e7-5443-413a-a3ff-a00806543732" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192656" src="https://github.com/user-attachments/assets/455142e7-5443-413a-a3ff-a00806543732" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192708" src="https://github.com/user-attachments/assets/376b40da-60d5-4fa6-a7d7-0dd06e7e19e0" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192708" src="https://github.com/user-attachments/assets/376b40da-60d5-4fa6-a7d7-0dd06e7e19e0" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192720" src="https://github.com/user-attachments/assets/5a88fdbb-045e-4b74-b5d1-71df7e44e36c" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192720" src="https://github.com/user-attachments/assets/5a88fdbb-045e-4b74-b5d1-71df7e44e36c" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192731" src="https://github.com/user-attachments/assets/57e2d9ca-c4c1-416d-a5d4-67d89adcb561" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192731" src="https://github.com/user-attachments/assets/57e2d9ca-c4c1-416d-a5d4-67d89adcb561" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192742" src="https://github.com/user-attachments/assets/c22af753-0e8d-494f-adb6-fbf48d3461f0" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192742" src="https://github.com/user-attachments/assets/c22af753-0e8d-494f-adb6-fbf48d3461f0" />
    
-   <img width="1366" height="768" alt="Screenshot 2026-11-15 192751" src="https://github.com/user-attachments/assets/26f7e67b-953d-4a56-aad0-2d41e59ff556" />
+<img width="1366" height="768" alt="Screenshot 2026-11-15 192751" src="https://github.com/user-attachments/assets/26f7e67b-953d-4a56-aad0-2d41e59ff556" />
 
 
 
